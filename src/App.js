@@ -29,7 +29,10 @@ const friendsData = [
   { name: "Van Peter Dayag", imageFilename: "friend-04.jpg" },
 ];
 
-const sponsorsData = [{ text: "Keychron k8", image: "ads.gif" }];
+const sponsorsData = [
+  { text: "Keychron k8", image: "ads.gif" },
+  { text: "Keychron k8", image: "ads.gif" }
+];
 
 function App() {
   return (
